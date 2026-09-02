@@ -20,6 +20,9 @@
   "@dptech-corp/bohr-cli": {
     "version": "*"
   },
+  "@guandata/guanvis": {
+    "version": ">=0.1.32"
+  },
   "@mapnik/core-darwin-arm64": {
     "version": "*"
   },
