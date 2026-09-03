@@ -21,7 +21,7 @@
     "version": "*"
   },
   "@guandata/guanvis": {
-    "version": ">=0.1.32"
+    "version": "*"
   },
   "@mapnik/core-darwin-arm64": {
     "version": "*"
